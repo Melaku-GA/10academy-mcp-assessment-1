@@ -3,4 +3,3 @@ I reviewed and refined my existing copilot-instructions.md based on Boris Cherny
 I removed unenforceable assumptions and replaced them with explicit planning, safety boundaries, and confirmation rules.
 I tested the agent with refactoring and destructive-action prompts and observed improved predictability and compliance.
 
-#fini
